@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Yup, this is my GitHub profile. You totally found it.
+
 <!--
 **Ed-Price/Ed-Price** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
